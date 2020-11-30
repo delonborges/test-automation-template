@@ -1,0 +1,5 @@
+---
+default: -p pretty --publish-quiet
+pretty: --format pretty
+progress: --format progress
+html: --format html --out=log/report.html
