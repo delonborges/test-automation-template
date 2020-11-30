@@ -8,7 +8,7 @@ git clone git@github.com:delonborges/test-automation-template.git
 ```
 Acesse a pasta do projeto:
 ```
-cd automation-project
+cd test-automation-template
 ```
 Efetue a instalação das _gem's_ necessárias:
 ```
