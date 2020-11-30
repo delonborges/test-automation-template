@@ -1,7 +1,7 @@
 # Projeto base para automação de testes
 
 ### Ambiente
-OBS.: Utilizar as últimas versões disponível do Chrome e chromedriver
+OBS.: Utilizar as últimas versões disponíveis do Chrome e chromedriver
 - [Ruby](https://www.ruby-lang.org/pt/ "Ruby")
 - [Bundler](https://bundler.io/ "Bundler")
 - [Chrome](https://www.google.com/intl/pt-BR/chrome/ "Chrome")
