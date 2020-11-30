@@ -1,5 +1,15 @@
 # Projeto base para automação de testes
 
+### Ambiente
+OBS.: Utilizar as últimas versões disponível do Chrome e chromedriver
+```
+[Ruby](https://www.ruby-lang.org/pt/ "Ruby")
+[Bundler](https://bundler.io/ "Bundler")
+[Chrome](https://www.google.com/intl/pt-BR/chrome/ "Chrome")
+[chromedriver](https://chromedriver.chromium.org/downloads "chromedriver")
+```
+
+
 ### Configuração
 
 Clone o repositório:
@@ -14,6 +24,7 @@ Efetue a instalação das _gem's_ necessárias:
 ```
 bundle install
 ```
+
 
 ### Execução
 Inicie a execução dos testes
