@@ -12,11 +12,11 @@ OBS.: Utilizar as últimas versões disponíveis do Chrome e chromedriver
 
 Clone o repositório:
 ```
-git clone git@github.com:delonborges/test-automation-template.git
+git clone git@github.com:delonborges/test-automation-capybara-cucumber.git
 ```
 Acesse a pasta do projeto:
 ```
-cd test-automation-template
+cd test-automation-capybara-cucumber
 ```
 Efetue a instalação das _gem's_ necessárias:
 ```
